@@ -220,6 +220,8 @@ To scale this up, the next steps are:
 ## 👥 Author
 
 * **Muhammad Taha Nasir**
+* **Email:** [m.tahanasir.cs@gmail.com](mailto:m.tahanasir.cs@gmail.com)
+* **Portfolio:** [https://muhammadtahanasir.github.io/](https://muhammadtahanasir.github.io/)
 
 > [!NOTE]
 > This platform was developed for portfolio analysis and is designed for enterprise integration with SQLite, PostgreSQL, and Oracle accounts payable systems.
