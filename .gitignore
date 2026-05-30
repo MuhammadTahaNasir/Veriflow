@@ -1,0 +1,18 @@
+# Compiled python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Large binary datasets
+data/inventory.db
+data/*.csv
+
+# Serialized Model Weights
+models/*.pkl
+
+# IDE and System files
+.DS_Store
+.vscode/
+.idea/
+.streamlit/
