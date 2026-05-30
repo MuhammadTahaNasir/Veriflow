@@ -175,7 +175,7 @@ Provides an interactive auditing desk. Users input invoice metrics and instantly
 ![Simulation Flagged for Audit](images/simulator_flagged.png)
 
 * **Auto-Approved (Logistics Baseline Match):** Billed freight adjusted to `$40.00` matches contracting benchmarks, triggering automatic clearance:
-![Simulation Auto-Approved](images/simulator_approved.png)
+![Simulation Auto-Approved](images/ledger_landing.png)
 
 ### 3. Database Audit Ledger
 Offers a multi-filtered tabular interface querying the database, allowing users to isolate flagged high-risk transactions dynamically and export audit lists as clean CSV files.
