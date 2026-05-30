@@ -185,10 +185,13 @@ Offers a multi-filtered tabular interface querying the database, allowing users 
 
 ## 🛠️ Installation & Execution
 
-### 1. Install Dependencies
+### 1. Install Dependencies & Place Database
 ```bash
 pip install -r requirements.txt
 ```
+> [!IMPORTANT]
+> The **424MB SQLite database (`inventory.db`)** contains millions of rows and is ignored by git. You must place your compiled database or dataset inside the `data/` directory. You can download the source transaction files directly from Kaggle:
+> 📦 **[Kaggle: Bibitor LLC Inventory Records Analysis](https://www.kaggle.com/datasets/abioduntiamiyu/bibitor-llc-inventory-records-analysis)**
 
 ### 2. Run the Machine Learning Pipeline
 Extract transaction logs, engineer features, train models, and save the pipelines:
